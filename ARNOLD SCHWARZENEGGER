@@ -1,0 +1,38 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<div id="main">
+<h1 id="title">Arnold Schwarzenegger</h1>
+  <p>15 Things That Made Arnold Schwarzenegger Great</p>
+  <div id="img-div">
+     <img id="image" src="https://ae01.alicdn.com/kf/HTB1qzUIQVXXXXbAXpXXq6xXFXXXD/Arnold-Schwarzenegger-Inspiration-Bodybuilding-poster-Decor.jpg_640x640.jpg">
+     <div id="img-caption">
+      Early Years. Arnold Schwarzenegger was born on July 30, 1947, near Graz, Austria. Schwarzenegger's childhood was far from ideal. ... He also ridiculed Schwarzenegger's early dreams of becoming a bodybuilder.
+    </div>
+  </div>
+ </div>
+  <div id="tribute-info">
+    <ul>
+      <h3 id="headline">Here's a 15 Things That Made Arnold Schwarzenegger Great:</h3>
+      <li><strong>1</strong> - HE LOVED TO TRAIN</li>
+      <li><strong>2</strong> - HE USED VARIETY—BUT NOT TOO MUCH </li>
+      <li><strong>3</strong> - HE LIKED OLD-FASHIONED CARDIO </li>
+      <li><strong>4</strong> - HE RELIED ON PROVEN NUTRITION PRINCIPLES</li>
+      <li><strong>5</strong> - HE LEARNED FROM HIS TRAINING</li>
+      <li><strong>6</strong> - HIS STRATEGIC CHARM</li>
+      <li><strong>7</strong> - HIS NON-STRATEGIC CHARM</li>
+      <li><strong>8</strong> - HE SHARED</li>
+      <li><strong>9</strong> - HE WASN'T AFRAID TO FAIL</li>
+      <li><strong>10</strong> - HIS PERSISTENCE</li>
+      <li><strong>11</strong> - HIS SENSE OF HUMOR</li>
+      <li><strong>12</strong> - HE COULD MULTITASK</li>
+      <li><strong>13</strong> - HE WAS ALWAYS ARNOLD</li>
+      <li><strong>14</strong> - HE STUCK TO HIS ROOTS</li>
+      <li><strong>15</strong> - HE WASN'T AFRAID TO GROW</li>
+          </ul>  
+   <blockquote>
+      <p> For me life is continuously being hungry. The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer.</p>
+     <div>-- Arnold Schwarzenegger</div>
+     </blockquote>
+    <h3>find more information <a id="tribute-link" href="https://en.wikipedia.org/wiki/Arnold_Schwarzenegger" target="_blank">here</a>.</h3>
+  </div>
+</div>
