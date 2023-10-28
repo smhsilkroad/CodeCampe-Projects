@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(180, 180, 180);
+}
+img {
+  border-radius: 10%;
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+
+#img-div{
+  border-radius: 2%;
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:1px solid black;
+  background:#787878;
+}
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+p{
+  text-transform: uppercase;
+  text-align: center;
+}
+ul{
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 5px;
+}
+blockquote{
+  font-style: italic;
+}
