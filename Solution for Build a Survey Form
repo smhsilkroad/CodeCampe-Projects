@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="styles.css">
+  <h1 id="title">Driver Pre-Qualification Questionnaire </h1>
+  <p id="description">Please answer the following questions to the best of your knowledge. </p>
+  <form id="survey-form">
+    <input type="text" id="name" placeholder="Elvis Presley" required>
+    <label id="name-label">Please enter your full name</label>
+    <input type="email" id="email" placeholder="email@email.com" required>
+    <label id="email-label">Please enter your email</label>
+    <input type="number" id="number" min="1" max="99" placeholder="1-99">
+    <label id="number-label">Please enter years of experience</label>
+    <select id="dropdown">
+      <option>1</option>
+      <option>2</option>
+    </select>
+    <input type="radio" name="name" value="test 1">
+    <input type="radio" name="name" value="test 2">
+    <input type="checkbox" value="1">
+    <input type="checkbox" value="2">
+    <button type="submit" id="submit">Click Me!</button>
+
+    <textarea></textarea>
+    </form>
